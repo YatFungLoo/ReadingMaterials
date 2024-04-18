@@ -16,6 +16,10 @@ https://www.vishalchovatiya.com/
 
 https://aaronice.gitbook.io/lintcode/
 
+## Memory
+
+https://lwn.net/Articles/250967/
+
 ## 天書
 
 C++ Primer
