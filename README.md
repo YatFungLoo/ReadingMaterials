@@ -14,6 +14,12 @@ https://web.stanford.edu/class/archive/cs/cs103/cs103.1222/lectures/05/Small.pdf
 
 https://www.vishalchovatiya.com/
 
+on memory:
+https://lwn.net/Articles/250967/
+
+on arithmetic:
+https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html
+
 ## Leetcode
 
 https://aaronice.gitbook.io/lintcode/
